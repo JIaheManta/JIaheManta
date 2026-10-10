@@ -6,7 +6,7 @@
 
 I create visual identities, moving-image works and interactive experiences that connect storytelling, technology and emotion.
 
-[Portfolio](https://manta-jiahe-portfolio.honest-dream-1602.chatgpt.site) · [Website Template](https://github.com/JIaheManta/portfolio-website-template)
+[Website Template](https://github.com/JIaheManta/portfolio-website-template)
 
 </div>
 
