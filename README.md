@@ -1,16 +1,36 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**JIaheManta/JIaheManta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# MANTA / Jiahe Bian
 
-Here are some ideas to get you started:
+### Visual Designer · Moving Image · AI & Digital Experiences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I create visual identities, moving-image works and interactive experiences that connect storytelling, technology and emotion.
+
+[Portfolio](https://manta-jiahe-portfolio.honest-dream-1602.chatgpt.site) · [Website Template](https://github.com/JIaheManta/portfolio-website-template)
+
+</div>
+
+---
+
+## About
+
+你好，我是佳禾，一名视觉设计师，目前就读于伦敦艺术大学。
+
+I'm Jiahe, a visual designer studying at University of the Arts London. My practice spans visual storytelling, brand experience, moving image, digital media and cross-disciplinary creation.
+
+I believe design is not only about visual expression, but also about experience, communication and connection.
+
+## Practice
+
+- Visual identity and brand experience
+- Moving image and AI-assisted creation
+- Digital storytelling and interactive experiences
+- Art direction and cross-media experimentation
+
+---
+
+<div align="center">
+
+**Open to creative collaborations and new opportunities.**
+
+</div>
